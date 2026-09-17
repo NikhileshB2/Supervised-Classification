@@ -1,0 +1,22 @@
+Accuracy: 1.0
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ Agriculture       1.00      1.00      1.00    1
+      Barren       1.00      1.00      1.00    1
+    Built-up       1.00      1.00      1.00    1
+      Forest       1.00      1.00      1.00    1
+       Water       1.00      1.00      1.00    1
+
+    accuracy                           1.00    5
+   macro avg       1.00      1.00      1.00    5
+weighted avg       1.00      1.00      1.00    5
+
+
+Confusion Matrix:
+[[1 0 0 0 0]
+ [0 1 0 0 0]
+ [0 0 1 0 0]
+ [0 0 0 1 0]
+ [0 0 0 0 1]]
